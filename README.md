@@ -1,46 +1,42 @@
-# BJJ Workout App
+# BJJ Workout Routine
 
-A React application designed to guide Brazilian Jiu-Jitsu athletes through structured training sessions.
+A React application designed to help Brazilian Jiu-Jitsu athletes follow structured training plans and prepare for competition.
 
 ## Features
 
-* Daily workout plans
-* Round-based training
-* Countdown timers
-* Rep-based exercises
-* Audio cues
-* Progress tracking
-* Mobile-friendly interface
-* Exercise video support
+- Daily training routines
+- Round-based workouts
+- Countdown timers
+- Rep-based exercises
+- Audio notifications
+- Progress tracking
+- Responsive design
+- Exercise video support
 
-## Built With
+## Tech Stack
 
-* React
-* JavaScript
-* CSS
-* Vite
+- React
+- JavaScript
+- Vite
+- CSS
 
 ## What I Learned
 
-While building this project I practiced:
+During this project I practiced:
 
-* React Hooks
-* useState
-* useEffect
-* useMemo
-* useRef
-* Component architecture
-* State management
-* Array methods (map, filter, flatMap)
-* Responsive design
+- React Hooks
+- useState
+- useEffect
+- useMemo
+- useRef
+- State management
+- Array methods (map, filter, flatMap)
+- Responsive layouts
+- Application architecture
 
-## Future Improvements
+## Live Demo
 
-* Exercise video library
-* User profiles
-* Workout history
-* Progress analytics
-* Cloud storage
+https://bjj-workout-routine.vercel.app
 
 ## Author
 
